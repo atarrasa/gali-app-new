@@ -1,0 +1,16 @@
+{
+  "name": "galicia-planner",
+  "version": "1.0.0",
+  "description": "Planner colaborativo del viaje a Galicia",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
